@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP G2RL-1-E
+D Omron G5LE relay, Miniature Single Pole, SPDT, 10A
+K Miniature Single Pole Relay
+F http://www.omron.com/ecb/products/pdf/en-g5le.pdf
+$ENDCMP
+#
+$CMP G2RL-2-E
+D Omron G5LE relay, Miniature Single Pole, SPDT, 10A
+K Miniature Single Pole Relay
+F http://www.omron.com/ecb/products/pdf/en-g5le.pdf
+$ENDCMP
+#
+#End Doc Library

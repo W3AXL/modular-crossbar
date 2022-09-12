@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "omron")(type "Legacy")(uri "${KIPRJMOD}/lib/omron.lib")(options "")(descr ""))
+  (lib (name "pca9535")(type "KiCad")(uri "${KIPRJMOD}/lib/pca9535.kicad_sym")(options "")(descr ""))
+)
