@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name "omron")(type "KiCad")(uri "${KIPRJMOD}/lib/omron.pretty")(options "")(descr ""))
+  (lib (name "conn")(type "KiCad")(uri "${KIPRJMOD}/lib/conn.pretty")(options "")(descr ""))
 )
